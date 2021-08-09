@@ -1,0 +1,6 @@
+# Git Excercise
+Git is a version control system that allows us to track changes and commits to hitory.
+
+Here is a growing collection of resources and helpful commands to know when working.
+## Git commands
+- [Git config](./commands/config.md)
